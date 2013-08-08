@@ -1,6 +1,6 @@
-# Paraíso for Notepad++
+# Kimbie for Notepad++
 
-A color scheme inspired by the colorful illustrations by Brazilian artist [Rubens LP][1].
+A color scheme inspired by [Cold Spring Fault Less Youth][1], the second album by British band Mount Kimbie.
 
 ![Animated Screenshot][2]
 
@@ -18,7 +18,7 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 
 [<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][4]
 
-[1]: http://www.rubenslp.com.br/
-[2]: https://raw.github.com/idleberg/Paraiso-Xcode/master/images/screenshot.gif
+[1]: http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611
+[2]: https://raw.github.com/idleberg/Kimbie-Xcode/master/images/screenshot.gif
 [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Paraiso-Notepad-plus-plus/&title=Paraiso&20Color%20Scheme&description=A%29color%29scheme%29inspired%29by%29the%29colorful%29illustrations%29by%29Brazilian%29artist%29Rubens%29LP&language=en_GB&tags=notepad,color%20scheme,theme,syntax%20highlight,style-sheets&hidden=0&category=software
+[4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Kimbie-Notepad-plus-plus/&title=Kimbie&20Color%20Scheme&category=software
